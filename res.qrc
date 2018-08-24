@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>standard.jpg</file>
+        <file>qtStyleSheet.txt</file>
+    </qresource>
+</RCC>
